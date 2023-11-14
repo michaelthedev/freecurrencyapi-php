@@ -13,8 +13,9 @@ This package is a PHP wrapper for [freecurrencyapi.com](https://freecurrencyapi.
 
 You can install the package via composer:
 
+-- Original repo doesn't have any release --
 ```bash
-composer require everapi/freecurrencyapi-php
+composer require michaelthedev/freecurrencyapi-php
 ```
 
 ## Usage
